@@ -1,0 +1,13 @@
+Telegram bot name: teleradbot
+username : teleraddr_bot
+HTTP API; 
+  1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo
+Chrome
+https://api.telegram.org/bot1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo/getUpdates
+
+Chrome telegram send message API
+https://api.telegram.org/bot1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo/sendMessage?chat_id=1627934330&text=hello
+
+Bot ID: 1985481759
+
+LTVSELL_bot= LTVSELL_bot: 1951009206:AAHoLDpw8yBRuk4Dx3um4ON6s6adZmkI_zw   ID: 1951009206
