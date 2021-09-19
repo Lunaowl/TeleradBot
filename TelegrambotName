@@ -1,6 +1,6 @@
 Telegram bot name: teleradbot
 username : teleraddr_bot
-HTTP API; 
+HTTP API; 토큰정보를 이용하여  문자 보낼수 있음.
   1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo
 Chrome
 https://api.telegram.org/bot1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo/getUpdates
@@ -8,6 +8,12 @@ https://api.telegram.org/bot1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo/getUp
 Chrome telegram send message API
 https://api.telegram.org/bot1985481759:AAF-IwG9RkL0GJjzk6bwu49FkE9VOzzLNdo/sendMessage?chat_id=1627934330&text=hello
 
-Bot ID: 1985481759
+teleradBot ID: 1985481759
 
-LTVSELL_bot= LTVSELL_bot: 1951009206:AAHoLDpw8yBRuk4Dx3um4ON6s6adZmkI_zw   ID: 1951009206
+Cryptowl ID: 1627934330
+
+LTVSELL_bot= LTVSELL_bot_ token : 1951009206:AAHoLDpw8yBRuk4Dx3um4ON6s6adZmkI_zw   ID: 1951009206
+https://api.telegram.org/bot1951009206:AAHoLDpw8yBRuk4Dx3um4ON6s6adZmkI_zw/sendMessage?chat_id=1985481759&text=hello
+
+
+전송시 반는 사람 ID필요함
